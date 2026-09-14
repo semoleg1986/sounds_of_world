@@ -1,0 +1,1 @@
+import{d as o,a,b as e,t as s,o as n,_ as c}from"./BPBAeeMJ.js";const _={class:"empty-state"},p=o({__name:"EmptyState",props:{title:{},description:{}},setup(t){return(i,r)=>(n(),a("section",_,[e("h2",null,s(t.title),1),e("p",null,s(t.description),1)]))}}),m=c(p,[["__scopeId","data-v-0b3ea2ce"]]);export{m as _};

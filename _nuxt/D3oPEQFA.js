@@ -1,0 +1,1 @@
+import{_ as o}from"./ChGITqbB.js";import{d as n,w as c,c as s,n as r,l as _,D as i,o as p}from"./BPBAeeMJ.js";const f=n({__name:"search",async setup(l){let e,t;return[e,t]=c(()=>r(_(i,"/search"),{})),await e,t(),(m,h)=>{const a=o;return p(),s(a,{title:"Redirecting to search",description:"Canonical search route includes the content locale prefix."})}}});export{f as default};
