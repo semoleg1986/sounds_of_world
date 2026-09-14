@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "slug": "kaliningrad-city-hero",
+      "kind": "city_hero",
+      "title": "Kaliningrad",
+      "path": "/images/demo/posters/kaliningrad-city-hero.svg",
+      "width": 1600,
+      "height": 900,
+      "aspect_ratio": 1.7777777778,
+      "dominant_color": "#DDF7F3",
+      "alt": "Stylized Kaliningrad city journal cover with cathedral silhouette and warm map light"
+    },
+    {
+      "slug": "kant-cathedral-bells-hero",
+      "kind": "sound_hero",
+      "title": "Kant Cathedral Bells",
+      "path": "/images/demo/posters/kant-cathedral-bells-hero.svg",
+      "width": 1600,
+      "height": 900,
+      "aspect_ratio": 1.7777777778,
+      "dominant_color": "#DDF7F3",
+      "alt": "Wide stylized poster for Kant Cathedral Bells with play button and cathedral silhouette"
+    },
+    {
+      "slug": "kant-cathedral-bells-poster",
+      "kind": "sound_tile",
+      "title": "Kant Cathedral Bells",
+      "path": "/images/demo/posters/kant-cathedral-bells-poster.svg",
+      "width": 960,
+      "height": 960,
+      "aspect_ratio": 1,
+      "dominant_color": "#DDF7F3",
+      "alt": "Square stylized poster for Kant Cathedral Bells"
+    },
+    {
+      "slug": "pregolya-river-evening-poster",
+      "kind": "sound_tile",
+      "title": "Pregolya River Evening",
+      "path": "/images/demo/posters/pregolya-river-evening-poster.svg",
+      "width": 960,
+      "height": 960,
+      "aspect_ratio": 1,
+      "dominant_color": "#7FA89B",
+      "alt": "Square stylized poster for Pregolya River Evening"
+    },
+    {
+      "slug": "amber-coast-morning-poster",
+      "kind": "sound_tile",
+      "title": "Amber Coast Morning",
+      "path": "/images/demo/posters/amber-coast-morning-poster.svg",
+      "width": 960,
+      "height": 960,
+      "aspect_ratio": 1,
+      "dominant_color": "#D7B57B",
+      "alt": "Square stylized poster for Amber Coast Morning"
+    },
+    {
+      "slug": "old-town-rain-tram-poster",
+      "kind": "sound_tile",
+      "title": "Old Town Rain Tram",
+      "path": "/images/demo/posters/old-town-rain-tram-poster.svg",
+      "width": 960,
+      "height": 960,
+      "aspect_ratio": 1,
+      "dominant_color": "#17211B",
+      "alt": "Square stylized poster for Old Town Rain Tram"
+    }
+  ]
+}
