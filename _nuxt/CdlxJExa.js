@@ -1,0 +1,1 @@
+import{_ as o}from"./DCSSoV2D.js";import{d as a,w as c,n as _,l as s,D as i,o as r,c as l}from"./DOc0Dm31.js";const x=a({__name:"index",async setup(p){let t,e;return[t,e]=c(()=>_(s(i,"/"),{})),await t,e(),(m,u)=>{const n=o;return r(),l(n,{title:"Redirecting to English catalog",description:"Canonical public routes include the content locale prefix."})}}});export{x as default};
